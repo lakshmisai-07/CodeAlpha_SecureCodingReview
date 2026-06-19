@@ -1,2 +1,18 @@
-# CodeAlpha_SecureCodingReview
-Secure Coding Review project demonstrating security vulnerabilities, risk analysis, and secure coding practices using Python.Secure coding reviewcreated as part of the CodeAlpha Cyber Security Internship.
+# Secure Coding Review
+
+## Description
+This project demonstrates SQL Injection vulnerability and its prevention using secure coding practices.
+
+## Vulnerability
+SQL Injection
+
+## Solution
+Parameterized Queries
+
+## Files
+- vulnerable_code.py
+- secure_code.py
+- Security_Report.docx
+
+## Technology
+Python
